@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Hedvig Letters Sans', sans-serif;
+}
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(232, 232, 232, 0.7));
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    
+}
+
+nav{
+    display: flex;
+    padding: 1% 2%;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(179, 179, 179);
+    border: 1px solid rgb(255, 0, 0);
+}
+
+nav img{
+    width: 150px;
+}
+
+.nav-links{
+    flex: 1;
+    text-align: right;
+}
+
+.nav-links ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+
+}
+
+.nav-links ul li a{
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.text-box{
+    width: 90%;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+}
+
+.text-box h1{
+    font-size: 60px;
+    color: black;
+}
+
+.text-box p{
+    font-size: 16px;
+    margin: 10px 0 40px;
+    color: black;
+}
+
+.hero-bttn{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border: 1px solid rgb(193, 193, 193);
+    padding: 12px 34px;
+    font-size: 18px;
+    background: rgb(193, 193, 193);
+    position: relative;
+    cursor: pointer;
+
+}
+
+@media(max-width: 700px){
+    .text-box{
+        font-size: 20px;
+    }
+    .nav-links ul li{
+        display: block;
+    }
+    .nav-links{
+        position: absolute;
+        background-color: rgb(193, 193, 193);
+        /* border: 1px solid rgb(255, 0, 0); */
+        height: 100vh;
+        width: 200px;
+        top: 0;
+        right: 0;
+        text-align: left;
+        z-index: 2;
+    }
+}
