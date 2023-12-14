@@ -151,36 +151,98 @@ section {
     /* font-weight: bold; */
 }
 
-.facts {
+.block1 {
     display: block;
     justify-content: center;
     align-items: center;
-    padding: 10px;
     font-size: 18px;
     font-weight: normal;
-    padding: 2%;
     background-color: #5b5da61f;
     position: absolute;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
+    width: 50%; /* Add a fixed width */
+    height: 50%; /* Add a fixed height */
+    transform: translateX(0); /* Updated to translateX(0) */
+    top: 0;
+    right: 0;
 }
 
-.facts ol li {
+.block1:hover {
+    background-color: #5b5da644; /* Change the background color on hover */
+}
+
+.block2 {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: normal;
+    background-color: #5b5da61f;
+    position: absolute;
+    width: 50%; /* Add a fixed width */
+    height: 50%; /* Add a fixed height */
+    transform: translateX(0); /* Updated to translateX(0) */
+    top: 0;
+    left: 0;
+}
+
+.block2:hover {
+    background-color: #5b5da644; /* Change the background color on hover */
+}
+
+.block3 {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: normal;
+    background-color: #5b5da61f;
+    position: absolute;
+    width: 50%; /* Add a fixed width */
+    height: 50%; /* Add a fixed height */
+    transform: translateX(0); /* Updated to translateX(0) */
+    bottom: 0;
+    left: 0;
+}
+
+.block3:hover {
+    background-color: #5b5da644; /* Change the background color on hover */
+}
+
+.block4 {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: normal;
+    background-color: #5b5da61f;
+    position: absolute;
+    width: 50%; /* Add a fixed width */
+    height: 50%; /* Add a fixed height */
+    transform: translateX(0); /* Updated to translateX(0) */
+    bottom: 0;
+    right: 0;
+}
+
+.block4:hover {
+    background-color: #5b5da644; /* Change the background color on hover */
+}
+
+
+.block1 ol li {
     font-weight: bold;
     padding-left: 10px; /* Add spacing between numbers and writing */
 }
 
-.facts ol li span {
+.block1 ol li span {
     font-weight: normal;
 }
 
-.facts li {
+.block1 li {
     text-align: left;
     font-weight: lighter;
 }
 
-.facts h3{
+.block1 h3{
     text-align: center;
 }
 
