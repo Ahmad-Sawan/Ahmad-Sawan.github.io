@@ -141,8 +141,7 @@ section {
 /* Styling for the Employer section */
 #section2 h1 {
     font-size: 50px;
-    padding-bottom: 40px; /* Adjust the bottom padding */
-    margin-bottom: 40px; /* Add margin at the bottom to create space */
+   
 }
 
 #section2 h2 {
@@ -163,8 +162,8 @@ section {
     font-size: 18px;
     font-weight: normal;
     position: absolute;
-    width: 49.5%; /* Adjust width to create space between blocks */
-    height: 35%; /* Adjust height to create space between blocks */
+    width: 50%; /* Adjust width to create space between blocks */
+    height: 46.4%; /* Adjust height to create space between blocks */
     /* Add more specific positioning for each block if needed */
 }
 
@@ -193,28 +192,37 @@ section {
     right: 0; /* Adjust the right position */
 }
 
-.block4:hover {
-    /* background-color: #5b5da644; Change the background color on hover */
-    outline-style:groove;
+.block4:hover,
+.block3:hover,
+.block2:hover,
+.block1:hover {
+    background-color: #5b5da638; 
 }
 
 
-.block1 ol li {
-    font-weight: bold;
+.block3 ol li {
+    /* font-weight: bold; */
     padding-left: 10px; /* Add spacing between numbers and writing */
 }
 
-.block1 ol li span {
-    font-weight: normal;
-}
 
-.block1 li {
+
+.block3 li {
     text-align: left;
     font-weight: lighter;
 }
 
-.block1 h3{
+.block3 h3{
     text-align: center;
+}
+
+.block4 img{
+    width: 500px;
+    height: 500px;
+    object-fit: contain;
+    object-position: 50% 50%;
+    border-radius: 40%;
+  
 }
 
 /* Styling for the Goals section */
