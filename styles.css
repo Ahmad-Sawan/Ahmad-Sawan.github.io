@@ -137,10 +137,14 @@ section {
 
 /* Styling for the Employer section */
 #section2 h1 {
+
     font-size: 50px;
     text-align: center;
     padding-top: 100px;
     padding-bottom: 100px;
+    margin: 2px;
+    outline: #5B5EA6 solid 2px;
+    position: relative;
 }
 
 #section2 h2 {
@@ -158,7 +162,7 @@ section {
     font-size: 18px;
     font-weight: normal;
     background-color: #5b5da61f;
-    position: absolute;
+    position: flex;
     width: 50%; /* Add a fixed width */
     height: 50%; /* Add a fixed height */
     transform: translateX(0); /* Updated to translateX(0) */
@@ -167,7 +171,8 @@ section {
 }
 
 .block1:hover {
-    background-color: #5b5da644; /* Change the background color on hover */
+    outline-style:groove;
+
 }
 
 .block2 {
@@ -176,17 +181,19 @@ section {
     align-items: center;
     font-size: 18px;
     font-weight: normal;
-    background-color: #5b5da61f;
+    background-color: #ffffff1f;
     position: absolute;
     width: 50%; /* Add a fixed width */
     height: 50%; /* Add a fixed height */
     transform: translateX(0); /* Updated to translateX(0) */
+    position: flex;
     top: 0;
     left: 0;
 }
 
 .block2:hover {
-    background-color: #5b5da644; /* Change the background color on hover */
+    outline-style:groove;
+
 }
 
 .block3 {
@@ -200,12 +207,14 @@ section {
     width: 50%; /* Add a fixed width */
     height: 50%; /* Add a fixed height */
     transform: translateX(0); /* Updated to translateX(0) */
+    position: flex;
     bottom: 0;
     left: 0;
 }
 
 .block3:hover {
-    background-color: #5b5da644; /* Change the background color on hover */
+    outline-style:groove;
+
 }
 
 .block4 {
@@ -214,17 +223,19 @@ section {
     align-items: center;
     font-size: 18px;
     font-weight: normal;
-    background-color: #5b5da61f;
+    background-color: #ffffff1f;
     position: absolute;
     width: 50%; /* Add a fixed width */
     height: 50%; /* Add a fixed height */
     transform: translateX(0); /* Updated to translateX(0) */
+    position: flex;
     bottom: 0;
     right: 0;
 }
 
 .block4:hover {
-    background-color: #5b5da644; /* Change the background color on hover */
+    /* background-color: #5b5da644; Change the background color on hover */
+    outline-style:groove;
 }
 
 
