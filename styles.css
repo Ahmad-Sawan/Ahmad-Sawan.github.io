@@ -159,7 +159,7 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 18px;
+    font-size: 15px;
     font-weight: normal;
     position: absolute;
     width: 50%; /* Adjust width to create space between blocks */
