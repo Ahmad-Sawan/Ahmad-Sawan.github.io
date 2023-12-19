@@ -173,11 +173,19 @@ section {
     top: 10; /* Adjust the top position */
     right: 0; /* Adjust the right position */
 }
+.block1 h3{
+    text-align: center;
+    padding: 2%;
+}
 
 .block2 {
     background-color: #5b5da61f;
     top: 10; /* Adjust the top position */
     left: 0; /* Adjust the left position */
+}
+.block2 h3{
+    text-align: center;
+    padding: 2%;
 }
 
 .block3 {
@@ -221,7 +229,7 @@ section {
     height: 500px;
     object-fit: contain;
     object-position: 50% 50%;
-    border-radius: 40%;
+    border-radius: 30%;
   
 }
 
