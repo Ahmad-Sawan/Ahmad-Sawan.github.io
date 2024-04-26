@@ -10,6 +10,8 @@ Whether you're a fellow student, a  employer, or simply curious, I invite you to
 
 Join me as I navigate my professional experiences, embracing every experience as an opportunity for growth and discovery. Thank you for joining me on this journey.
 
+To navigate to each report, please click the links below.
+
 
 ## [Work Term Report 1](./WT1.md)
 
