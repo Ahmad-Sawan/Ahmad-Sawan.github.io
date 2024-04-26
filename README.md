@@ -9,9 +9,9 @@ Whether you're a fellow student, a  employer, or simply curious, I invite you to
 Join me as I navigate my professional experiences, embracing every experience as an opportunity for growth and discovery. Thank you for joining me on this journey.
 
 
-[Work Term Report 1](./WT1.md).
+# [Work Term Report 1](./WT1.md).
 
-[Work Term Report 2](./WT2.md).
+# [Work Term Report 2](./WT2.md).
 
 
 
