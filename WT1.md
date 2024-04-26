@@ -3,13 +3,12 @@
 
 ## Abstract/Introduction 
 
-Hello and welcome! My name is **Ahmad Sawan**, and I am in my third year of studies in Computer Science. This site is a peek into my co-op work term at Canadian Solar Inc. As a Document Technical Writer, I've had an exciting journey learning and contributing in the world of technical documentation. 
+Hello and welcome! My name is **Ahmad Sawan**, and I am in my third year of studies in Computer Science. This page is a peek into my co-op work term at Canadian Solar Inc. As a Document Technical Writer, I've had an exciting journey learning and contributing in the world of technical documentation. 
 
 Note: **Canadian Solar** is currently in transition of changing to **RECURRENT ENERGY**, so you might see both in this website.
 
 Here, I'll share snippets of this experience, capturing the essence of my role and the lessons that have shaped my professional path.
 
-![Canadian Solar](assets/photos/canadiansolar.png)
 ![Subsidiary Logo](assets/photos/Subsidiary-Logo.png)
 
 ## Employer

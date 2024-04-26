@@ -1,6 +1,8 @@
 # Welcome
 
 
+Hello and welcome! My name is **Ahmad Sawan**, and I am in my third year of studies in Computer Science. 
+
 Here, you'll find a collection of reflections and insights gathered throughout my professional journey. As I complete each work term, I take the opportunity to delve into my experiences, challenges, and growth, offering a candid glimpse into the world of work and learning.
 
 Through these reflections, I aim to capture the work of each work term, sharing valuable lessons learned, and achievements 
