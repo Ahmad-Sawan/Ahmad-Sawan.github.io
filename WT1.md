@@ -1,11 +1,5 @@
 # Work Term 1 Report (WTR23)
 
-- [Abstract/Introduction](#section1)
-- [Employer](#section2)
-- [Goals](#section3)
-- [Job Description](#section4)
-- [Conclusions](#section5)
-- [Acknowledgments](#section6)
 
 ## Abstract/Introduction 
 
@@ -15,8 +9,8 @@ Note: **Canadian Solar** is currently in transition of changing to **RECURRENT E
 
 Here, I'll share snippets of this experience, capturing the essence of my role and the lessons that have shaped my professional path.
 
-![Canadian Solar](photos/canadiansolar.png)
-![Subsidiary Logo](photos/Subsidiary-Logo.png)
+![Canadian Solar](assets/photos/canadiansolar.png)
+![Subsidiary Logo](assets/photos/Subsidiary-Logo.png)
 
 ## Employer
 
@@ -37,7 +31,7 @@ Canadian Solar (NASDAQ: CSIQ) was founded in 2001 and made its debut on the NASD
 9. Vertical Integration: Canadian Solar aims to have greater control over technology, costs, and the supply chain.
 10. Community Engagement: It would be interesting to explore if Canadian Solar is involved in community initiatives.
 
-![CSEye](photos/CSEye.jpg)
+![CSEye](assets/photos/CSEye.jpg)
 
 ## Goals 
 
