@@ -1,4 +1,4 @@
-# Welcome
+# Ahmad Sawan
 
 
 Hello and welcome! My name is **Ahmad Sawan**, and I am in my third year of studies in Computer Science. 
@@ -10,7 +10,7 @@ Whether you're a fellow student, a  employer, or simply curious, I invite you to
 
 Join me as I navigate my professional experiences, embracing every experience as an opportunity for growth and discovery. Thank you for joining me on this journey.
 
-To navigate to each report, please click the links below.
+_To navigate to each report, please click the links below._
 
 
 ## [Work Term Report 1](./WT1.md)
