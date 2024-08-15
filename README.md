@@ -1,4 +1,4 @@
-# CO-OP Work Term Reports
+# Ahmad Sawan
 
 
 Hello and welcome! My name is **Ahmad Sawan**, and I am entering my fourth year of studies in Computer Science. 
