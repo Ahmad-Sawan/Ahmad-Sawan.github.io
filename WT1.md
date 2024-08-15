@@ -1,4 +1,4 @@
-# Work Term 1 Report (WTR23)
+# Work Term 1 Report (W23)
 
 
 ## Abstract/Introduction 

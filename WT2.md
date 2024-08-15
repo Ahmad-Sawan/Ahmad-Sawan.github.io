@@ -1,4 +1,4 @@
-# Work Term 2 Report (SMR24)
+# Work Term 2 Report (S24)
 
 ## Abstract/Introduction
 
