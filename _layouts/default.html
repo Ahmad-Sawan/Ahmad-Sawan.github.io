@@ -45,6 +45,14 @@
       <nav>
       </nav>
 
+      <footer>
+        {% if site.github.is_project_page %}
+          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        
+      </footer>
+    </div>
+    <div>
       <nav class="none" style="margin-right: 50%; color: blue;">
         <ul class="none">
           <li class="none">Test 1</li>
@@ -52,12 +60,6 @@
           <li class="none">Test 1</li>
         </ul>
       </nav>
-      <footer>
-        {% if site.github.is_project_page %}
-          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        
-      </footer>
     </div>
   </body>
 </html>
