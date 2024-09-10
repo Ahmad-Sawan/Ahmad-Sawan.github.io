@@ -79,4 +79,12 @@ Through this co-op, I gained hands-on experience in full-stack web development a
 
 ## Conclusions
 
+My role as a Software Developer Co-op at Canadian Solar Inc. was my introduction to professional software development beyond academic coursework. This position involved developing web applications and data processing tools for Canadian Solar’s global solar plant monitoring platforms, focusing on technical proficiency, problem-solving, and teamwork.
+
+Contributing to a company with a global impact, I enhanced my skills in web development, backend programming, and data management. This experience not only sharpened my technical capabilities but also provided valuable insights into working in a fast-paced, ethically responsible business environment, preparing me for future professional roles in software development.
+
 ## Acknowledgments
+
+There are several individuals who played an crucial role in guiding me through the stages of my journey. I would like to extend my sincerities to **Laura Gatto, Kate McRoberts, Anne-Marie Zawadzki, and Rahul**.
+
+Their mentorship, support, and guidance were crucial in helping me navigate the complexities of my role as a Software Developer Co-op. Each of them contributed significantly to shaping my experience, and I sincerely appreciate their efforts in laying the foundation for my professional development.
