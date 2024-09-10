@@ -50,34 +50,27 @@ As a Software Developer Co-op at Canadian Solar Inc., I contributed to the Opera
 ### **Key Achievements:**
 
 Web Development & Data Processing
-
 - Developed and optimized web pages and applications for data reporting and visualization, contributing to improved solar plant monitoring.
 - Created custom scripts for data ETL processes, ensuring accurate data warehousing, cleaning, transforming, and modeling.
 
 Global Monitoring Platform Enhancements
-
 - Improved the functionality of Canadian Solar's global monitoring platform by addressing user feedback and resolving service desk tickets.
 
 Ethical Standards & Safety Compliance
-
 - Maintained strict adherence to Canadian Solar’s Code of Business Conduct, ensuring all work was performed to the highest ethical standards while following environmental, health, and safety regulations.
 
 ### **Skills Utilized:**
 
 Web Development (JavaScript, HTML, CSS)
-
 - Leveraged front-end development skills to create intuitive and functional interfaces for solar plant performance tracking.
 
 Back-End Development (Python, Java)
-
 - Developed back-end tools using Python and Java to support data processing and visualization.
 
 Relational Databases (MySQL, MS-SQL)
-
 - Worked with relational databases for storing and managing data essential to solar plant operations.
 
 Communication & Team Collaboration
-
 - Collaborated closely with team members to design solutions and address issues related to solar data management and reporting.
 
 ### **Learning Journey:**
