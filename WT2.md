@@ -12,13 +12,34 @@ While Canadian Solar focuses on renewable energy solutions, the development, opt
 
 Canadian Solar (NASDAQ: CSIQ) was founded in 2001 and made its debut on the NASDAQ in 2006. Over the past two decades, Canadian Solar has become a global leader in solar energy and energy storage solutions.
 
+**Fun Facts:**
+
+1. Global Presence: Canadian Solar has subsidiaries in 23 countries and regions on 6 continents.
+2. Large Workforce: With over 20,000 employees, the company operates with a substantial team.
+3. Production Capacities: CSI Solar anticipates impressive production capacities by December 2024.
+4. Project Pipelines: Canadian Solar has a solar project development pipeline of 26.0GWp.
+5. Battery Storage: The company is actively involved in battery storage solutions.
+6. R&D and Innovation: Canadian Solar has 2,134 authorized patents worldwide.
+7. Industry Recognition: The company has received several awards and is rated as a top bankable manufacturer.
+8. ESG Commitment: Canadian Solar places importance on Environmental, Social, and Governance (ESG) practices.
+9. Vertical Integration: Canadian Solar aims to have greater control over technology, costs, and the supply chain.
+10. Community Engagement: It would be interesting to explore if Canadian Solar is involved in community initiatives.
+
+![CSEye](assets/photos/CSEye.jpg)
+
 ## Goals
 
 **CRITICAL & CREATIVE THINKING - Problem Solving**
 
+Successfully completed a large migration task involving the upgrade of Angular from version 13 to 17, which required extensive problem-solving. Despite not being initially familiar with the task, I navigated complex challenges by researching solutions and applying creative approaches. Regular feedback from colleagues helped refine my solutions. The success of this project is measured by the completion of the migration, resolution of technical issues, and positive feedback received for handling the task independently.
+
 **PROFESSIONAL & ETHICAL BEHAVIOUR - Teamwork**
 
+Focused on improving teamwork and communication skills through active participation in team meetings and collaborative projects. I consistently prepared for meetings by reviewing agendas and providing updates on my tasks. Contributed ideas during discussions and assisted with cross-functional projects, continuously seeking feedback from peers and supervisors. The success of these efforts is evidenced by positive performance reviews, successful project completion, and demonstrated improvements in communication skills within team settings.
+
 **LITERACY - Technological Literacy**
+
+Committed to enhancing my technological literacy in Angular, Python, and HTML/CSS. Dedicated weekly time to learning these technologies through courses and tutorials, while applying best practices to real-world projects. Regular feedback from supervisors and other developers helped me refine my skills. Success is measured through the successful deployment of projects utilizing these technologies, positive feedback on best practices, and noticeable improvements in my proficiency across all three technologies.
 
 ## Job Description - FULL STACK SOFTWARE DEVELOPER
 
