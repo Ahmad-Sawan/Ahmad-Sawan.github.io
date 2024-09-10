@@ -43,11 +43,11 @@ Committed to enhancing my technological literacy in Angular, Python, and HTML/CS
 
 ## Job Description - FULL STACK SOFTWARE DEVELOPER
 
-**Job Overview:**
+### **Job Overview:**
 
 As a Software Developer Co-op at Canadian Solar Inc., I contributed to the Operations & Maintenance (O&M) department by developing web applications and data tools for solar plant monitoring and reporting. My focus was on enhancing the performance of the global solar monitoring platform, addressing user feedback, and closing service desk tickets. This experience provided hands-on exposure to both front-end and back-end technologies, supporting the company’s solar energy initiatives.
 
-**Key Achievements:**
+### **Key Achievements:**
 
 Web Development & Data Processing
 
@@ -62,7 +62,7 @@ Ethical Standards & Safety Compliance
 
 - Maintained strict adherence to Canadian Solar’s Code of Business Conduct, ensuring all work was performed to the highest ethical standards while following environmental, health, and safety regulations.
 
-**Skills Utilized:**
+### **Skills Utilized:**
 
 Web Development (JavaScript, HTML, CSS)
 
@@ -80,7 +80,7 @@ Communication & Team Collaboration
 
 - Collaborated closely with team members to design solutions and address issues related to solar data management and reporting.
 
-**Learning Journey:**
+### **Learning Journey:**
 
 Through this co-op, I gained hands-on experience in full-stack web development and data processing tools used in a fast-paced, energy-focused environment. I deepened my understanding of industry best practices and contributed to Canadian Solar's goal of creating a cleaner Earth through solar energy.
 
