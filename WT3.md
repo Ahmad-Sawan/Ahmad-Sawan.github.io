@@ -79,6 +79,8 @@ Proactively searched internal Confluence documents, GitHub issues, and external 
 - Created developer-friendly internal tools to monitor REView activity and user logins.
 - Provided tech support to internal users during platform onboarding.
 
+![Platform](assets/photos/IMG_4169.png)
+
 ---
 
 ## Conclusion
