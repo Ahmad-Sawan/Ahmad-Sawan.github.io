@@ -6,6 +6,8 @@ Welcome to a reflection of my third co-op work term at Canadian Solar Inc., also
 
 This term challenged me to think deeply, plan strategically, and build systems that will scale. I worked extensively with both backend (Django) and frontend (Angular), and also focused on enhancing authentication mechanisms including **SAML**, **2FA**, and **multi-session handling**. In this report, I’ll outline the work I accomplished, the technologies I engaged with, and how this experience shaped my goals and learning outcomes.
 
+![Subsidiary Logo](assets/photos/Subsidiary-Logo.png)
+
 ---
 
 ## Employer
